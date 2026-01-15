@@ -22,14 +22,18 @@
   </a>
 </p>
 
---- * 📖 **Master's Degree** in **Artificial Intelligence** and **Computer Vision** @[The University of Salerno](https://www.unisa.it/). * 🎓 Conducted advanced **research** contributing to cutting-edge AI and computer vision technologies @[The University of Salerno](https://www.unisa.it/). * 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/). * 💼 Previously, **Machine Learning Specialist** developing innovative AI-driven solutions and predictive analytics @[Youbiquo srl](https://www.youbiquo.eu/). ---
+--- 
+
+* 📖 **Master's Degree** in **Artificial Intelligence** and **Computer Vision** @[The University of Salerno](https://www.unisa.it/).
+* * 🎓 Conducted advanced **research** contributing to cutting-edge AI and computer vision technologies @[The University of Salerno](https://www.unisa.it/).
+* * 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/).
+* * 💼 Previously, **Machine Learning Engineer** developing innovative AI-driven solutions and predictive analytics @[Youbiquo srl](https://www.youbiquo.eu/).
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="display:block; margin: 0 auto;" />
-</p>
-
-<p align="center" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Repositories Per Language" />
 </p>
