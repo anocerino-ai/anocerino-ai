@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SatoshiNakamoto99" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anocerino-ai" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antonio+Nocerino;Advanced+Machine+Learning+Engineer;AI+Engineer+%7C+Computer+Vision&cb=20250615" alt="Typing SVG Animated" />
   </a>
   <br/>
@@ -15,7 +15,7 @@
   </a>
   <br/> 
 
-  <a href="https://github.com/SatoshiNakamoto99" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anocerino-ai" target="_blank" rel="noopener noreferrer">
     <img src="https://github-stats-alpha.vercel.app/api?username=SatoshiNakamoto99&cc=22272e&tc=37BCF6&ic=fff&bc=0000&cb=20250615" alt="GitHub Summary Stats" />
   </a>
 </p>
@@ -31,9 +31,9 @@
 
 ## 📈 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoshiNakamoto99&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="display:block; margin: 0 auto;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="display:block; margin: 0 auto;" />
 
 <div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiNakamoto99&theme=dracula&cb=20250615" alt="Repositories Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiNakamoto99&theme=dracula&cb=20250615" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Repositories Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Most Commit Language" />
 </div>
