@@ -34,7 +34,7 @@
 ## 📈 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="max-width: 400px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Repositories Per Language" style="max-width: 400px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="max-width: 300px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Repositories Per Language" style="max-width: 200px;" />
 </p>
 
