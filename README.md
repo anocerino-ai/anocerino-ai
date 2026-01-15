@@ -2,8 +2,9 @@
   <a href="https://github.com/anocerino-ai" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antonio+Nocerino;Advanced+Machine+Learning+Engineer;AI+Engineer+%7C+Computer+Vision&cb=20250615" alt="Typing SVG Animated" />
   </a>
-  <br/>
+  <br/><br/>
 
+  <!-- Badges -->
   <a href="https://ai-genius.xyz/about" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-anto.dev-red?style=flat-square&cb=20250615" alt="Portfolio Website" />
   </a>  
@@ -13,8 +14,9 @@
   <a href="mailto:nocerino.antonioai@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&cb=20250615" alt="Send Email" />
   </a>
-  <br/> 
+  <br/><br/>
 
+  <!-- GitHub Summary Stats -->
   <a href="https://github.com/anocerino-ai" target="_blank" rel="noopener noreferrer">
     <img src="https://github-stats-alpha.vercel.app/api?username=anocerino-ai&cc=22272e&tc=37BCF6&ic=fff&bc=0000&cb=20250615" alt="GitHub Summary Stats" />
   </a>
@@ -22,18 +24,21 @@
 
 ---
 
-* 📖 **Master's Degree** in **Artificial Intelligence** and **Computer Vision** @[The University of Salerno](https://www.unisa.it/).  
-* 🎓 Conducted advanced **research** contributing to cutting-edge AI and computer vision technologies @[The University of Salerno](https://www.unisa.it/).  
-* 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/).  
-* 💼 Previously, **Machine Learning Specialist** developing innovative AI-driven solutions and predictive analytics @[Youbiquo srl](https://www.youbiquo.eu/).
+<p align="center">
+  * 📖 **Master's Degree** in **Artificial Intelligence** and **Computer Vision** @[The University of Salerno](https://www.unisa.it/)  
+  * 🎓 Conducted advanced **research** contributing to cutting-edge AI and computer vision technologies @[The University of Salerno](https://www.unisa.it/)  
+  * 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/)  
+  * 💼 Previously, **Machine Learning Engineer** developing innovative AI-driven solutions and predictive analytics @[Youbiquo srl](https://www.youbiquo.eu/)
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="display:block; margin: 0 auto;" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anocerino-ai&theme=dracula&cb=20250615" alt="GitHub Profile Details" style="display:block; margin: 0 auto;" />
+</p>
 
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
+<p align="center" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Repositories Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anocerino-ai&theme=dracula&cb=20250615" alt="Most Commit Language" />
-</div>
+</p>
