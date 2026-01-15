@@ -16,7 +16,7 @@
   <br/> 
 
   <a href="https://github.com/anocerino-ai" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-stats-alpha.vercel.app/api?username=SatoshiNakamoto99&cc=22272e&tc=37BCF6&ic=fff&bc=0000&cb=20250615" alt="GitHub Summary Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=anocerino-ai&cc=22272e&tc=37BCF6&ic=fff&bc=0000&cb=20250615" alt="GitHub Summary Stats" />
   </a>
 </p>
 
